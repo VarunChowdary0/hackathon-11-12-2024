@@ -2,6 +2,9 @@
 venv/
 ENV/
 env/
+Lib/
+Scripts/
+Include/
 
 # Byte-compiled Python files
 __pycache__/
